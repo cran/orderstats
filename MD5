@@ -1,0 +1,10 @@
+a964b1bceb38f2387ccbbcf230577d18 *DESCRIPTION
+36812c592b6dea5f3ec28a4f3b523179 *NAMESPACE
+6549e24e2946697e104283c2ef2554e6 *R/order_stats.R
+52c7636b247a2e2d8b9f0f511a4e85eb *man/order_probs.Rd
+3152eb9addbe1811bc2384d02d839c60 *man/order_rcauchy.Rd
+50d363b4e394d348455454b6469d5cf7 *man/order_rchisq.Rd
+3427b6f34377ffff256e00b1d19246f6 *man/order_rexp.Rd
+79b8ce489c7dfb0dd8dd70c2aedc1385 *man/order_rgamma.Rd
+0864423a0ba66daa124a2062721c38ce *man/order_rlogis.Rd
+a6dbbaa597ee5ffc2cfd0ddd7dbcb476 *man/order_rnorm.Rd
